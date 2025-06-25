@@ -20,6 +20,7 @@ const SocialLinks = ({ links }) => {
           <a 
             key={type} 
             href={linkUrl}
+            tabIndex="0"
             {...(download && { download })}  // Only add download attribute if it exists
             aria-label={`Visit ${type} profile`}
           >

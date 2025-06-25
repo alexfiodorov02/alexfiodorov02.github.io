@@ -7,11 +7,13 @@ const IntroSection = () => {
   ];
 
   return (
+    <main>
     <div className="intro-section">
       {introText.map((paragraph, index) => (
         <p key={index}>{paragraph}</p>
       ))}
     </div>
+    </main>
   );
 };
 
