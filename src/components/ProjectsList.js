@@ -4,7 +4,13 @@ const ProjectsList = () => {
       id: 1,
       name: "Glyphwitch",
       url: "https://github.com/memphis-iis/glyphwitch",
-      description: "Helps researchers annotate historical documents"
+      description: "Annotate, transcribe, and explore historical documents for research, education, and preservation."
+    },
+    {
+      id: 2,
+      name: "The Finance Tracker",
+      url: "https://github.com/jackSeigerman/Finance-Tracker",
+      description: "Managing your finances never looked so good."
     }
     // Adding more projects here
   ];

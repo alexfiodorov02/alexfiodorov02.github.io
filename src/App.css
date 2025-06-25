@@ -147,13 +147,13 @@ table {
 
 /* Typography */
 body {
-  font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", sans-serif;
+  font-family: "Helvetica", "Arial Narrow", "Roboto Condensed", sans-serif;
   font-size: 20px;
   line-height: 150%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Neucha", "Noteworthy", "Times New Roman", sans-serif;
+  font-family: "Helvetica", "Neucha", "Noteworthy", "Times New Roman", sans-serif;
   line-height: 150%;
 }
 
