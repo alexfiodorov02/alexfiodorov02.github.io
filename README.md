@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# My Personal Site
 
-Personal Website written in React
+A personal site built with React because... why not? 🚀 
+
+A simple HTML page would've done the job, but I like building things with React and the component structure makes it super easy to add new sections or features later. I can easily throw in a blog section for technical posts, some fun animations or features, or whatever else comes to mind.
+
+Built with Create React App because sometimes the classics just work.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
