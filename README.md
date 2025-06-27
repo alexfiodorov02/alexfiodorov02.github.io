@@ -6,6 +6,8 @@ A simple HTML page would've done the job, but I like building things with React 
 
 Built with Create React App because sometimes the classics just work.
 
+## Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
